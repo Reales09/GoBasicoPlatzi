@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	pk "src/mypackage"
+	pk "srcpath/mypackage"
 )
 
 func main() {

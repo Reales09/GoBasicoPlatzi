@@ -1,3 +1,3 @@
-module src
+module srcpath
 
 go 1.20
