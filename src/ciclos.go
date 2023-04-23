@@ -9,7 +9,7 @@ func main() {
 		fmt.Println(i)
 	}
 
-	fmt.Println("\n")
+	// fmt.Println("\n")
 	// For while
 	counter := 0
 
